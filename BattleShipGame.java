@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class BattleShipGame {
     /**
      * This is the launcher of the game
-     * Made by Ze Sheng 57990537 and Wenyu Wu 21851070
+     * Made by Ze Sheng
      */
     public static void main(String[] args) {
         boolean again = true;
