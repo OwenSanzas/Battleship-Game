@@ -83,7 +83,7 @@ Corner cases check | ✓
 * In each round, players can choose a cell to attack, if this area has a ship, then the cell changes to 'x' from '.'. If no ship in this area, it changes to '-'.
 * If a ship is sunk, it will becomes all 's'. The game process can be shown in the following map:
 * ````
-       0  1  2  3  4  5  6  7  8  9
+     0  1  2  3  4  5  6  7  8  9
   0  ·  ·  ·  s  -  -  -  -  ·  ·
   1  ·  ·  -  ·  ·  ·  ·  ·  ·  ·
   2  x  ·  ·  ·  ·  ·  ·  ·  ·  s
