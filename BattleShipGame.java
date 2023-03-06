@@ -10,7 +10,7 @@ public class BattleShipGame {
         while (again) {
             // Initialize the map:
             Ocean ocean = new Ocean();
-            String welcome = "Welcome to Battle Ship! \nProduced by Ze Sheng and Wenyu Wu";
+            String welcome = "Welcome to Battle Ship! \nProduced by Ze Sheng";
             System.out.println(welcome);
 
             // Initialize the ships
